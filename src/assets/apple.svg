@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="56.143" height="63.677" viewBox="0 0 56.143 63.677">
+    <defs>
+        <style>
+            .cls-4,.cls-8{stroke:#323232}.cls-3,.cls-4,.cls-8{stroke-linecap:round;stroke-linejoin:round}.cls-4{stroke-width:1.134px}.cls-3,.cls-4{fill:none}.cls-3{stroke:#fff;stroke-width:2.609px;opacity:.5}.cls-8{fill:#323232;stroke-width:1.069px}.cls-9{fill:#fff}
+        </style>
+    </defs>
+    <g id="Group_1474" transform="translate(-305.433 -188.72)">
+        <g id="Group_1471" transform="translate(306 189.509)">
+            <g id="Group_1470">
+                <g id="Group_1468" transform="translate(9.15 14.013)">
+                    <path id="Path_378" fill="#fdcaaf" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.134px" d="M345.48 201.633a3.836 3.836 0 0 0-.453 1.034 3.937 3.937 0 0 0 .807 3.6 3.5 3.5 0 0 0 2.177 1.185c-.005.069-.009.137-.01.206s0 .139 0 .208a3.868 3.868 0 0 0 1.128 2.625 3.437 3.437 0 0 0 2.543 1.018q.182-.008.359-.031c.116-.017.232-.04.345-.068a3.791 3.791 0 0 0 1.32 1.924 3.389 3.389 0 0 0 2.184.706c.376-.012.893 2.38 1.23 2.254s-3.365 13.7-5.4 16.012a23.311 23.311 0 0 1-7.239 5.551c-2.75 1.346-5.845.675-9.068.782s-6.264.984-9.1-.175a23.384 23.384 0 0 1-7.595-5.055 24.954 24.954 0 0 1-5.263-7.7 25.969 25.969 0 0 1-2.156-9.571 21.649 21.649 0 0 1 1.534-9.089c1.093-2.635 29.384-9.81 29.509-9.448s2.93 3.733 3.149 4.033" transform="translate(-311.275 -197.586)"/>
+                </g>
+                <g id="Group_1469" transform="translate(0 14.171)">
+                    <path id="Path_379" fill="#f9c6c8" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.134px" d="M346.646 202.142a4.642 4.642 0 0 0-.571 1.206 4.713 4.713 0 0 0-.206 1.384 4.623 4.623 0 0 0 1.011 2.909 4.1 4.1 0 0 0 2.505 1.49c-.007.08-.014.161-.019.243s-.007.165-.007.246a4.612 4.612 0 0 0 1.22 3.154 4.013 4.013 0 0 0 2.942 1.306 3.718 3.718 0 0 0 .42-.024 3.536 3.536 0 0 0 .409-.066 4.493 4.493 0 0 0 1.471 2.33 3.957 3.957 0 0 0 2.533.925 3.861 3.861 0 0 0 1.268-.213 4.021 4.021 0 0 0 1.11-.592c.012.25.021.5.028.756s.009.51.009.767a31.048 31.048 0 0 1-2.151 11.42 29.613 29.613 0 0 1-5.869 9.328 27.407 27.407 0 0 1-8.705 6.289c-3.275 1.485-6.878.567-10.659.567s-7.383.918-10.66-.567a27.42 27.42 0 0 1-8.7-6.287 29.552 29.552 0 0 1-5.869-9.328A31.049 31.049 0 0 1 306 217.963a25.856 25.856 0 0 1 2.153-10.7 22.755 22.755 0 0 1 6.3-7.744c2.477-2.08 5.362-2.07 8.57-1.542s6.309 1.579 10.091 1.579a35.673 35.673 0 0 0 6.846-.834 49.888 49.888 0 0 1 6.283-1.01 4.716 4.716 0 0 0-.17 3.227 4.615 4.615 0 0 0 .571 1.206" transform="translate(-306 -197.678)"/>
+                </g>
+                <path id="Path_380" d="M329.58 200.424c0 1.3-2.531 2.354-5.652 2.354s-5.65-1.055-5.65-2.354" class="cls-3" transform="translate(-296.978 -181.489)"/>
+                <path id="Path_381" d="M326.486 200.184c0 .8-1.558 1.449-3.478 1.449s-3.477-.649-3.477-1.449" class="cls-4" transform="translate(-296.057 -181.665)"/>
+                <path id="Path_382" d="M321.713 208.535s-1.374-12.433 3.19-19.026" class="cls-4" transform="translate(-294.596 -189.509)"/>
+                <ellipse id="Ellipse_17" cx="8.825" cy="4.495" fill="#bddebd" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.134px" rx="8.825" ry="4.495" transform="translate(9.571 2.372)"/>
+                <path id="Path_383" d="M315.557 194.237c1.534-1.317 9.446-1.943 10.6-.279" class="cls-4" transform="translate(-298.978 -186.977)"/>
+                <path id="Path_384" fill="#eb4b52" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.134px" d="M319.468 226.271a12.574 12.574 0 0 0 5.884-2.04" transform="translate(-296.104 -163.995)"/>
+                <path id="Path_385" d="M319.83 230.856c-2.77-2.349-6.434-5.255-8.219-8.579a30.644 30.644 0 0 1-3.034-11.092" class="cls-3" transform="translate(-304.107 -173.581)"/>
+                <path id="Path_386" d="M308.994 205.753a18.224 18.224 0 0 1 2.743-4.247" class="cls-3" transform="translate(-303.8 -180.694)"/>
+            </g>
+        </g>
+        <ellipse id="Ellipse_18" cx="1.121" cy=".701" fill="#040505" stroke="#323232" stroke-linecap="round" stroke-linejoin="round" stroke-width="0.767px" rx="1.121" ry=".701" transform="rotate(-12.774 1220.869 -1392.813)"/>
+        <g id="Group_1472" transform="translate(328.379 228.117)">
+            <circle id="Ellipse_19" cx="1.545" cy="1.545" r="1.545" class="cls-8" transform="translate(0 .101)"/>
+            <circle id="Ellipse_20" cx=".695" cy=".695" r=".695" class="cls-9" transform="translate(1.585)"/>
+        </g>
+        <g id="Group_1473" transform="translate(340.812 224.999)">
+            <circle id="Ellipse_21" cx="1.545" cy="1.545" r="1.545" class="cls-8" transform="translate(0 .101)"/>
+            <circle id="Ellipse_22" cx=".695" cy=".695" r=".695" class="cls-9" transform="translate(1.585)"/>
+        </g>
+    </g>
+</svg>
